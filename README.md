@@ -40,3 +40,5 @@ git log -1 --oneline
 ```
 
 `git status` shows which files changed, `git add` stages the files for a checkpoint, and `git commit` saves that checkpoint with a message. If Git says your name or email is not configured, ask your instructor or follow your organization's Git setup instructions before committing.
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
